@@ -16,4 +16,4 @@ actutil.ijs
 actables.ijf
 )
 
-RELEASE=: 'j602 701'
+RELEASE=: 'j602 j701'
