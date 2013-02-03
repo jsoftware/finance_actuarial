@@ -6,7 +6,7 @@ DESCRIPTION=: 0 : 0
 Various actuarial functions.
 )
 
-VERSION=: '1.0.3'
+VERSION=: '1.0.4'
 
 FILES=: 0 : 0
 actuarial.ijs
@@ -16,4 +16,4 @@ actutil.ijs
 actables.ijf
 )
 
-RELEASE=: 'j602 j701'
+RELEASE=: 'j801'
